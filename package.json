@@ -1,0 +1,7 @@
+{
+  "name": "react-webpack-babel-config",
+  "version": "1.0.0",
+  "description": "setting up a simple react app with custom webpack config and babel",
+  "main": "index.js",
+  "license": "MIT"
+}
