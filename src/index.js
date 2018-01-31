@@ -1,1 +1,4 @@
-let vari = 3;
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+ReactDOM.render(<App />, document.getElementById('root'));
